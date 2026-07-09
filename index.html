@@ -3,25 +3,111 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ERP Notes Search</title>
+  <title>ERP Notes Hub</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="layout">
+  <section id="lockScreen" class="lock-screen">
+    <div class="lock-bg one"></div>
+    <div class="lock-bg two"></div>
+    <div class="lock-card">
+      <div class="brand-pill">ERP Notes Hub</div>
+      <div class="lock-icon">🔐</div>
+      <h1>Smart App Lock</h1>
+      <p>PIN enter karein aur ERP notes dashboard unlock karein.</p>
+
+      <form id="unlockForm" class="unlock-form">
+        <input id="pinInput" type="password" inputmode="numeric" maxlength="8" placeholder="••••" autocomplete="current-password" />
+        <button type="submit">Unlock Dashboard</button>
+      </form>
+
+      <div id="lockMessage" class="lock-message"></div>
+      <p class="pin-help">Default PIN: <strong>1234</strong></p>
+    </div>
+  </section>
+
+  <div class="app-shell app-hidden" id="appLayout">
     <aside class="sidebar">
-      <h2>ERP Notes</h2>
-      <input id="searchInput" type="search" placeholder="Search module, report, task..." autocomplete="off" />
-      <div class="meta"><span id="countText"></span></div>
+      <div class="logo-row">
+        <div class="logo-mark">E</div>
+        <div>
+          <h2>ERP Notes</h2>
+          <span>Searchable module guide</span>
+        </div>
+      </div>
+
+      <div class="side-actions">
+        <button id="changePinBtn" class="ghost-btn">Change PIN</button>
+        <button id="lockBtn" class="danger-btn">Lock</button>
+      </div>
+
+      <div class="search-box">
+        <span>⌕</span>
+        <input id="searchInput" type="search" placeholder="Search module, report, task..." autocomplete="off" />
+      </div>
+
+      <div class="mini-stats">
+        <div><strong id="totalCount">0</strong><span>Total</span></div>
+        <div><strong id="shownCount">0</strong><span>Shown</span></div>
+      </div>
+
+      <div class="section-label">Categories</div>
       <div id="categoryList" class="category-list"></div>
     </aside>
 
     <main class="main">
-      <div class="hero">
-        <h1>ERP Options & Notes</h1>
-        <p>User kisi bhi ERP option ko search kare aur uska note/detail dekh le.</p>
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">ERP Knowledge Base</p>
+          <h1>ERP Options & Notes</h1>
+          <p class="subtitle">User kisi bhi ERP option ko search kare aur uska note/detail instantly dekh le.</p>
+        </div>
+        <div class="top-actions">
+          <button id="themeToggle" class="icon-btn" title="Dark / Light mode">🌙</button>
+          <button id="clearBtn" class="secondary-btn">Clear Search</button>
+        </div>
+      </header>
+
+      <section class="quick-panel">
+        <div class="quick-card">
+          <span>📚</span>
+          <div><strong id="moduleCount">0</strong><small>Modules / Reports</small></div>
+        </div>
+        <div class="quick-card">
+          <span>🧩</span>
+          <div><strong id="categoryCount">0</strong><small>Categories</small></div>
+        </div>
+        <div class="quick-card">
+          <span>⚡</span>
+          <div><strong>Fast</strong><small>Instant Search</small></div>
+        </div>
+      </section>
+
+      <div class="result-row">
+        <h3 id="resultTitle">All Notes</h3>
+        <span id="countText">0 results found</span>
       </div>
+
       <div id="notesList" class="cards"></div>
     </main>
+  </div>
+
+  <div id="noteModal" class="modal app-hidden" role="dialog" aria-modal="true">
+    <div class="modal-backdrop" id="modalBackdrop"></div>
+    <article class="modal-card">
+      <button class="modal-close" id="modalClose">×</button>
+      <span id="modalCategory" class="badge"></span>
+      <h2 id="modalTitle"></h2>
+      <p id="modalNote"></p>
+      <div class="detail-grid">
+        <div><strong>Purpose</strong><span>Is option ka kaam aur use case samjhein.</span></div>
+        <div><strong>Steps</strong><span>ERP mein open karein, required fields fill karein, save/submit karein.</span></div>
+        <div><strong>Important</strong><span>Company, party, date, account aur amount details zaroor verify karein.</span></div>
+      </div>
+    </article>
   </div>
 
   <script src="data.js"></script>

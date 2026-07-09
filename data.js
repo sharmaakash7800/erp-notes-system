@@ -2,756 +2,756 @@ const notesData = [
   {
     "title": "Task",
     "category": "Recruitment / HR",
-    "note": "Task ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Task\nModule: Recruitment / HR\n\nMeaning: Task kisi work/activity ko assign aur track karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Recruitment / HR module mein Task open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "New Job Requirement (Job Opening)",
     "category": "Recruitment / HR",
-    "note": "New Job Requirement (Job Opening) ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: New Job Requirement (Job Opening)\nModule: Recruitment / HR\n\nMeaning: Job Opening new vacancy/position create karne ke liye use hoti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Recruitment / HR module mein New Job Requirement (Job Opening) open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Job Applicant",
     "category": "Recruitment / HR",
-    "note": "Candidate/application details manage karne ke liye."
+    "note": "Topic: Job Applicant\nModule: Recruitment / HR\n\nMeaning: Job Applicant candidate ki application/profile record hoti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Recruitment / HR module mein Job Applicant open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Interview",
     "category": "Recruitment / HR",
-    "note": "Candidate ke interview schedule, feedback aur result manage karne ke liye."
+    "note": "Topic: Interview\nModule: Recruitment / HR\n\nMeaning: Interview candidate ke schedule, interviewer feedback aur result manage karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Recruitment / HR module mein Interview open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Job Offer",
     "category": "Recruitment / HR",
-    "note": "Selected candidate ko offer details issue karne ke liye."
+    "note": "Topic: Job Offer\nModule: Recruitment / HR\n\nMeaning: Job Offer selected candidate ko salary, designation aur joining terms offer karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Recruitment / HR module mein Job Offer open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "New Employee Joining",
     "category": "Recruitment / HR",
-    "note": "New employee onboarding, documents aur joining process track karne ke liye."
+    "note": "Topic: New Employee Joining\nModule: Recruitment / HR\n\nMeaning: New Employee Joining onboarding checklist, documents aur joining process track karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Recruitment / HR module mein New Employee Joining open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Existing Employees (User)",
     "category": "Recruitment / HR",
-    "note": "Existing Employees (User) ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Existing Employees (User)\nModule: Recruitment / HR\n\nMeaning: Existing Employees user-linked employee records ko manage karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Recruitment / HR module mein Existing Employees (User) open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Employee Checkin",
     "category": "Recruitment / HR",
-    "note": "Employee ki in/out timing record karne ke liye. Attendance aur shift calculation mein use hota hai."
+    "note": "Topic: Employee Checkin\nModule: Recruitment / HR\n\nMeaning: Employee Checkin employee ke in/out punch timing ka record hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Recruitment / HR module mein Employee Checkin open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Employee\n- Shift\n- In Time\n- Out Time\n- Attendance Status\n\nCommon Errors:\n- Duplicate checkin record hota hai.\n- Shift assign nahi hoti.\n- IN/OUT log missing hota hai."
   },
   {
     "title": "Task",
     "category": "Accounting Shortcuts",
-    "note": "Task ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Task\nModule: Accounting Shortcuts\n\nMeaning: Task kisi work/activity ko assign aur track karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Shortcuts module mein Task open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Chart of Accounts",
     "category": "Accounting Shortcuts",
-    "note": "Company ke tamam accounts/ledgers ka tree structure. Yahan assets, liabilities, income, expenses aur equity accounts manage hotay hain."
+    "note": "Topic: Chart of Accounts\nModule: Accounting Shortcuts\n\nMeaning: Chart of Accounts company ke tamam ledgers/accounts ka tree structure hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Shortcuts module mein Chart of Accounts open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Sales Invoice",
     "category": "Accounting Shortcuts",
-    "note": "Customer ko sale bill banane ke liye. Is se revenue aur accounts receivable entry create hoti hai."
+    "note": "Topic: Sales Invoice\nModule: Accounts Receivable / Sales\n\nMeaning: Sales Invoice customer ko sale ka official bill issue karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Receivable / Sales module mein Sales Invoice open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Posting Date wrong fiscal period mein hoti hai.\n- Party account ya tax template missing hota hai.\n- Item/account mapping incorrect hoti hai."
   },
   {
     "title": "Sales Invoice Report View",
     "category": "Accounting Shortcuts",
-    "note": "Sales Invoice Report View ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Sales Invoice Report View\nModule: Accounting Shortcuts\n\nMeaning: Sales Invoice Report View analysis/reporting ke liye use hota hai jisse decision making aur checking easy hoti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Accounting Shortcuts mein Sales Invoice Report View open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Posting Date wrong fiscal period mein hoti hai.\n- Party account ya tax template missing hota hai.\n- Item/account mapping incorrect hoti hai."
   },
   {
     "title": "Purchase Invoice",
     "category": "Accounting Shortcuts",
-    "note": "Supplier ka bill record karne ke liye. Is se expense/stock aur accounts payable create hota hai."
+    "note": "Topic: Purchase Invoice\nModule: Accounts Payable / Purchase\n\nMeaning: Purchase Invoice supplier/vendor ke bill ko record karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Payable / Purchase module mein Purchase Invoice open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Posting Date wrong fiscal period mein hoti hai.\n- Party account ya tax template missing hota hai.\n- Item/account mapping incorrect hoti hai."
   },
   {
     "title": "Journal Entry",
     "category": "Accounting Shortcuts",
-    "note": "Manual accounting adjustment, opening balance, correction ya transfer entries ke liye use hoti hai."
+    "note": "Topic: Journal Entry\nModule: Accounting Shortcuts\n\nMeaning: Journal Entry manual debit/credit accounting adjustment ke liye use hoti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Shortcuts module mein Journal Entry open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Opening Entry",
     "category": "Accounting Shortcuts",
-    "note": "Opening Entry ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Opening Entry\nModule: Accounting Shortcuts\n\nMeaning: Opening Entry ERP mein Accounting Shortcuts process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Shortcuts module mein Opening Entry open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Payment Entry",
     "category": "Accounting Shortcuts",
-    "note": "Customer se payment receive ya supplier ko payment karne ke liye use hoti hai."
+    "note": "Topic: Payment Entry\nModule: Accounting Shortcuts\n\nMeaning: Payment Entry customer se receipt ya supplier ko payment record karne ke liye use hoti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Shortcuts module mein Payment Entry open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Bank/Cash Account\n- Mode of Payment\n- Reference No\n- Allocated Amount\n\nCommon Errors:\n- Bank/cash account wrong select hota hai.\n- Reference number/date missing hoti hai.\n- Payment invoice ke against allocate nahi hoti."
   },
   {
     "title": "Accounts Receivable",
     "category": "Accounting Shortcuts",
-    "note": "Accounts Receivable ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Accounts Receivable\nModule: Accounting Shortcuts\n\nMeaning: Accounts Receivable ERP mein Accounting Shortcuts process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Shortcuts module mein Accounts Receivable open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "General Ledger",
     "category": "Accounting Shortcuts",
-    "note": "General Ledger ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: General Ledger\nModule: Accounting Shortcuts\n\nMeaning: General Ledger har account ki debit, credit aur balance movement dikhata hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Shortcuts module mein General Ledger open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Trial Balance",
     "category": "Accounting Shortcuts",
-    "note": "Debit aur credit balances ki summary. Month-end checking aur financial reporting ke liye important report."
+    "note": "Topic: Trial Balance\nModule: Accounting Shortcuts\n\nMeaning: Trial Balance accounts ke closing debit/credit balances ki summary report hoti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Shortcuts mein Trial Balance open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Dashboard",
     "category": "Accounting Shortcuts",
-    "note": "Dashboard ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Dashboard\nModule: Accounting Shortcuts\n\nMeaning: Dashboard ERP mein Accounting Shortcuts process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Shortcuts module mein Dashboard open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Learn Accounting",
     "category": "Accounting Shortcuts",
-    "note": "Learn Accounting ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Learn Accounting\nModule: Accounting Shortcuts\n\nMeaning: Learn Accounting ERP mein Accounting Shortcuts process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Shortcuts module mein Learn Accounting open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Company",
     "category": "Accounting Masters",
-    "note": "Company ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Company\nModule: Accounting Masters\n\nMeaning: Company master mein legal company setup, default currency, accounts aur tax details define hoti hain.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Masters module mein Company open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Chart of Accounts",
     "category": "Accounting Masters",
-    "note": "Company ke tamam accounts/ledgers ka tree structure. Yahan assets, liabilities, income, expenses aur equity accounts manage hotay hain."
+    "note": "Topic: Chart of Accounts\nModule: Accounting Masters\n\nMeaning: Chart of Accounts company ke tamam ledgers/accounts ka tree structure hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Masters module mein Chart of Accounts open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Accounts Settings",
     "category": "Accounting Masters",
-    "note": "Accounts Settings ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Accounts Settings\nModule: Accounting Masters\n\nMeaning: Accounts Settings module ke default rules, accounts aur behavior set karne ke liye hota hai.\n\nPurpose: Iska purpose future transactions ke liye standard setup create karna hai taki entries consistent aur error-free rahen.\n\nSteps:\n1. Accounts Settings open karein.\n2. Company/default values check karein.\n3. Required accounts, series aur rules set karein.\n4. Save karein.\n5. Ek test transaction se setting verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Fiscal Year",
     "category": "Accounting Masters",
-    "note": "Fiscal Year ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Fiscal Year\nModule: Accounting Masters\n\nMeaning: Fiscal Year accounting period ka yearly structure hota hai jisme transactions post hoti hain.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Masters module mein Fiscal Year open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Accounting Dimension",
     "category": "Accounting Masters",
-    "note": "Accounting Dimension ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Accounting Dimension\nModule: Accounting Masters\n\nMeaning: Accounting Dimension ERP mein Accounting Masters process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Masters module mein Accounting Dimension open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Finance Book",
     "category": "Accounting Masters",
-    "note": "Finance Book ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Finance Book\nModule: Accounting Masters\n\nMeaning: Finance Book ERP mein Accounting Masters process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Masters module mein Finance Book open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Accounting Period",
     "category": "Accounting Masters",
-    "note": "Accounting Period ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Accounting Period\nModule: Accounting Masters\n\nMeaning: Accounting Period ERP mein Accounting Masters process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Masters module mein Accounting Period open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Payment Term",
     "category": "Accounting Masters",
-    "note": "Payment Term ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Payment Term\nModule: Accounting Masters\n\nMeaning: Payment Term invoice payment due date aur credit period define karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Masters module mein Payment Term open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Bank/Cash Account\n- Mode of Payment\n- Reference No\n- Allocated Amount\n\nCommon Errors:\n- Bank/cash account wrong select hota hai.\n- Reference number/date missing hoti hai.\n- Payment invoice ke against allocate nahi hoti."
   },
   {
     "title": "Journal Entry",
     "category": "General Ledger",
-    "note": "Manual accounting adjustment, opening balance, correction ya transfer entries ke liye use hoti hai."
+    "note": "Topic: Journal Entry\nModule: General Ledger / Accounting\n\nMeaning: Journal Entry manual debit/credit accounting adjustment ke liye use hoti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. General Ledger / Accounting module mein Journal Entry open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Journal Entry Template",
     "category": "General Ledger",
-    "note": "Journal Entry Template ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Journal Entry Template\nModule: General Ledger / Accounting\n\nMeaning: Journal Entry Template reusable format/template hota hai jise baar baar same setup ke liye use kiya jata hai.\n\nPurpose: Iska purpose future transactions ke liye standard setup create karna hai taki entries consistent aur error-free rahen.\n\nSteps:\n1. General Ledger / Accounting module mein Journal Entry Template open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "General Ledger",
     "category": "General Ledger",
-    "note": "General Ledger ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: General Ledger\nModule: General Ledger / Accounting\n\nMeaning: General Ledger har account ki debit, credit aur balance movement dikhata hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. General Ledger / Accounting module mein General Ledger open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Customer Ledger Summary",
     "category": "General Ledger",
-    "note": "Customer Ledger Summary ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Customer Ledger Summary\nModule: General Ledger / Accounting\n\nMeaning: Customer Ledger Summary summarized report hoti hai jo quick balance/amount overview deti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. General Ledger / Accounting mein Customer Ledger Summary open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Supplier Ledger Summary",
     "category": "General Ledger",
-    "note": "Supplier Ledger Summary ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Supplier Ledger Summary\nModule: General Ledger / Accounting\n\nMeaning: Supplier Ledger Summary summarized report hoti hai jo quick balance/amount overview deti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. General Ledger / Accounting mein Supplier Ledger Summary open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Sales Invoice",
     "category": "Accounts Receivable",
-    "note": "Customer ko sale bill banane ke liye. Is se revenue aur accounts receivable entry create hoti hai."
+    "note": "Topic: Sales Invoice\nModule: Accounts Receivable / Sales\n\nMeaning: Sales Invoice customer ko sale ka official bill issue karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Receivable / Sales module mein Sales Invoice open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Posting Date wrong fiscal period mein hoti hai.\n- Party account ya tax template missing hota hai.\n- Item/account mapping incorrect hoti hai."
   },
   {
     "title": "Customer",
     "category": "Accounts Receivable",
-    "note": "Customer master record jisme billing, contact, tax aur credit details hoti hain."
+    "note": "Topic: Customer\nModule: Accounts Receivable / Sales\n\nMeaning: Customer master mein buyer ki billing, contact, GST/tax aur credit details save hoti hain.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Receivable / Sales module mein Customer open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Payment Entry",
     "category": "Accounts Receivable",
-    "note": "Customer se payment receive ya supplier ko payment karne ke liye use hoti hai."
+    "note": "Topic: Payment Entry\nModule: Accounts Receivable / Sales\n\nMeaning: Payment Entry customer se receipt ya supplier ko payment record karne ke liye use hoti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Receivable / Sales module mein Payment Entry open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n- Bank/Cash Account\n\nCommon Errors:\n- Bank/cash account wrong select hota hai.\n- Reference number/date missing hoti hai.\n- Payment invoice ke against allocate nahi hoti."
   },
   {
     "title": "Payment Request",
     "category": "Accounts Receivable",
-    "note": "Payment Request ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Payment Request\nModule: Accounts Receivable / Sales\n\nMeaning: Payment Request ERP mein Accounts Receivable / Sales process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Receivable / Sales module mein Payment Request open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n- Bank/Cash Account\n\nCommon Errors:\n- Bank/cash account wrong select hota hai.\n- Reference number/date missing hoti hai.\n- Payment invoice ke against allocate nahi hoti."
   },
   {
     "title": "Payment Reconciliation",
     "category": "Accounts Receivable",
-    "note": "Payment Reconciliation ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Payment Reconciliation\nModule: Accounts Receivable / Sales\n\nMeaning: Payment Reconciliation ka matlab hota hai pending invoice aur received/unallocated payment ko match/link karna.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Receivable/Payable mein Payment Reconciliation open karein.\n2. Company aur Party Type select karein.\n3. Customer/Supplier select karein.\n4. Get Unreconciled Entries par click karein.\n5. Invoice aur Payment Entry ko match karein.\n6. Allocated Amount verify karein.\n7. Reconcile/Submit karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n- Bank/Cash Account\n\nCommon Errors:\n- Payment already reconciled ho chuki hoti hai.\n- Wrong customer/supplier select ho jata hai.\n- Allocated amount invoice outstanding se zyada hota hai.\n- Receivable/Payable account mismatch hota hai."
   },
   {
     "title": "Accounts Receivable",
     "category": "Accounts Receivable",
-    "note": "Accounts Receivable ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Accounts Receivable\nModule: Accounts Receivable / Sales\n\nMeaning: Accounts Receivable ERP mein Accounts Receivable / Sales process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Receivable / Sales module mein Accounts Receivable open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Accounts Receivable Summary",
     "category": "Accounts Receivable",
-    "note": "Accounts Receivable Summary ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Accounts Receivable Summary\nModule: Accounts Receivable / Sales\n\nMeaning: Accounts Receivable Summary summarized report hoti hai jo quick balance/amount overview deti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Accounts Receivable / Sales mein Accounts Receivable Summary open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Sales Register",
     "category": "Accounts Receivable",
-    "note": "Sales Register ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Sales Register\nModule: Accounts Receivable / Sales\n\nMeaning: Sales Register transaction-wise report hoti hai jisme date, party, item/account, tax aur amount details dikhte hain.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Accounts Receivable / Sales mein Sales Register open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Item-wise Sales Register",
     "category": "Accounts Receivable",
-    "note": "Item-wise Sales Register ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Item-wise Sales Register\nModule: Accounts Receivable / Sales\n\nMeaning: Item-wise Sales Register transaction-wise report hoti hai jisme date, party, item/account, tax aur amount details dikhte hain.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Accounts Receivable / Sales mein Item-wise Sales Register open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Sales Order Analysis",
     "category": "Accounts Receivable",
-    "note": "Sales Order Analysis ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Sales Order Analysis\nModule: Accounts Receivable / Sales\n\nMeaning: Sales Order Analysis analysis/reporting ke liye use hota hai jisse decision making aur checking easy hoti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Accounts Receivable / Sales mein Sales Order Analysis open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Delivered Items To Be Billed",
     "category": "Accounts Receivable",
-    "note": "Delivered Items To Be Billed ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Delivered Items To Be Billed\nModule: Accounts Receivable / Sales\n\nMeaning: Delivered Items To Be Billed ERP mein Accounts Receivable / Sales process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Receivable / Sales module mein Delivered Items To Be Billed open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Purchase Invoice",
     "category": "Accounts Payable",
-    "note": "Supplier ka bill record karne ke liye. Is se expense/stock aur accounts payable create hota hai."
+    "note": "Topic: Purchase Invoice\nModule: Accounts Payable / Purchase\n\nMeaning: Purchase Invoice supplier/vendor ke bill ko record karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Payable / Purchase module mein Purchase Invoice open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Posting Date wrong fiscal period mein hoti hai.\n- Party account ya tax template missing hota hai.\n- Item/account mapping incorrect hoti hai."
   },
   {
     "title": "Supplier",
     "category": "Accounts Payable",
-    "note": "Supplier/vendor master jisme purchase, contact, tax aur payment details hoti hain."
+    "note": "Topic: Supplier\nModule: Accounts Payable / Purchase\n\nMeaning: Supplier master mein vendor ki purchase, payment, contact aur tax details save hoti hain.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Payable / Purchase module mein Supplier open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Payment Entry",
     "category": "Accounts Payable",
-    "note": "Customer se payment receive ya supplier ko payment karne ke liye use hoti hai."
+    "note": "Topic: Payment Entry\nModule: Accounts Payable / Purchase\n\nMeaning: Payment Entry customer se receipt ya supplier ko payment record karne ke liye use hoti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Payable / Purchase module mein Payment Entry open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Bank/Cash Account\n\nCommon Errors:\n- Bank/cash account wrong select hota hai.\n- Reference number/date missing hoti hai.\n- Payment invoice ke against allocate nahi hoti."
   },
   {
     "title": "Payment Reconciliation",
     "category": "Accounts Payable",
-    "note": "Payment Reconciliation ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Payment Reconciliation\nModule: Accounts Payable / Purchase\n\nMeaning: Payment Reconciliation ka matlab hota hai pending invoice aur received/unallocated payment ko match/link karna.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Receivable/Payable mein Payment Reconciliation open karein.\n2. Company aur Party Type select karein.\n3. Customer/Supplier select karein.\n4. Get Unreconciled Entries par click karein.\n5. Invoice aur Payment Entry ko match karein.\n6. Allocated Amount verify karein.\n7. Reconcile/Submit karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Bank/Cash Account\n\nCommon Errors:\n- Payment already reconciled ho chuki hoti hai.\n- Wrong customer/supplier select ho jata hai.\n- Allocated amount invoice outstanding se zyada hota hai.\n- Receivable/Payable account mismatch hota hai."
   },
   {
     "title": "Accounts Payable",
     "category": "Accounts Payable",
-    "note": "Accounts Payable ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Accounts Payable\nModule: Accounts Payable / Purchase\n\nMeaning: Accounts Payable ERP mein Accounts Payable / Purchase process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Payable / Purchase module mein Accounts Payable open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Accounts Payable Summary",
     "category": "Accounts Payable",
-    "note": "Accounts Payable Summary ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Accounts Payable Summary\nModule: Accounts Payable / Purchase\n\nMeaning: Accounts Payable Summary summarized report hoti hai jo quick balance/amount overview deti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Accounts Payable / Purchase mein Accounts Payable Summary open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Purchase Register",
     "category": "Accounts Payable",
-    "note": "Purchase Register ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Purchase Register\nModule: Accounts Payable / Purchase\n\nMeaning: Purchase Register transaction-wise report hoti hai jisme date, party, item/account, tax aur amount details dikhte hain.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Accounts Payable / Purchase mein Purchase Register open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Item-wise Purchase Register",
     "category": "Accounts Payable",
-    "note": "Item-wise Purchase Register ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Item-wise Purchase Register\nModule: Accounts Payable / Purchase\n\nMeaning: Item-wise Purchase Register transaction-wise report hoti hai jisme date, party, item/account, tax aur amount details dikhte hain.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Accounts Payable / Purchase mein Item-wise Purchase Register open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Purchase Order Analysis",
     "category": "Accounts Payable",
-    "note": "Purchase Order Analysis ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Purchase Order Analysis\nModule: Accounts Payable / Purchase\n\nMeaning: Purchase Order Analysis analysis/reporting ke liye use hota hai jisse decision making aur checking easy hoti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Accounts Payable / Purchase mein Purchase Order Analysis open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Received Items To Be Billed",
     "category": "Accounts Payable",
-    "note": "Received Items To Be Billed ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Received Items To Be Billed\nModule: Accounts Payable / Purchase\n\nMeaning: Received Items To Be Billed ERP mein Accounts Payable / Purchase process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounts Payable / Purchase module mein Received Items To Be Billed open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Trial Balance",
     "category": "Financial Statements",
-    "note": "Debit aur credit balances ki summary. Month-end checking aur financial reporting ke liye important report."
+    "note": "Topic: Trial Balance\nModule: Financial Statements\n\nMeaning: Trial Balance accounts ke closing debit/credit balances ki summary report hoti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Financial Statements mein Trial Balance open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Profit and Loss Statement",
     "category": "Financial Statements",
-    "note": "Income, expense aur profit/loss ki report specific period ke liye."
+    "note": "Topic: Profit and Loss Statement\nModule: Financial Statements\n\nMeaning: Profit and Loss Statement income, expenses aur net profit/loss show karti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Financial Statements mein Profit and Loss Statement open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Balance Sheet",
     "category": "Financial Statements",
-    "note": "Company ke assets, liabilities aur equity ki financial position show karti hai."
+    "note": "Topic: Balance Sheet\nModule: Financial Statements\n\nMeaning: Balance Sheet assets, liabilities aur equity ki financial position dikhati hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Financial Statements mein Balance Sheet open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Cash Flow",
     "category": "Financial Statements",
-    "note": "Cash Flow ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Cash Flow\nModule: Financial Statements\n\nMeaning: Cash Flow cash inflow aur outflow ko operating, investing aur financing mein show karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Financial Statements module mein Cash Flow open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Consolidated Financial Statement",
     "category": "Financial Statements",
-    "note": "Consolidated Financial Statement ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Consolidated Financial Statement\nModule: Financial Statements\n\nMeaning: Consolidated Financial Statement ERP mein Financial Statements process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Financial Statements mein Consolidated Financial Statement open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Sales Taxes and Charges Template",
     "category": "Taxes",
-    "note": "Sales Taxes and Charges Template ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Sales Taxes and Charges Template\nModule: Taxation\n\nMeaning: Sales Taxes and Charges Template reusable format/template hota hai jise baar baar same setup ke liye use kiya jata hai.\n\nPurpose: Iska purpose future transactions ke liye standard setup create karna hai taki entries consistent aur error-free rahen.\n\nSteps:\n1. Taxation module mein Sales Taxes and Charges Template open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n- GSTIN\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "Purchase Taxes and Charges Template",
     "category": "Taxes",
-    "note": "Purchase Taxes and Charges Template ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Purchase Taxes and Charges Template\nModule: Taxation\n\nMeaning: Purchase Taxes and Charges Template reusable format/template hota hai jise baar baar same setup ke liye use kiya jata hai.\n\nPurpose: Iska purpose future transactions ke liye standard setup create karna hai taki entries consistent aur error-free rahen.\n\nSteps:\n1. Taxation module mein Purchase Taxes and Charges Template open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- GSTIN\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "Item Tax Template",
     "category": "Taxes",
-    "note": "Item Tax Template ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Item Tax Template\nModule: Taxation\n\nMeaning: Item Tax Template reusable format/template hota hai jise baar baar same setup ke liye use kiya jata hai.\n\nPurpose: Iska purpose future transactions ke liye standard setup create karna hai taki entries consistent aur error-free rahen.\n\nSteps:\n1. Taxation module mein Item Tax Template open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "Tax Category",
     "category": "Taxes",
-    "note": "Tax Category ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Tax Category\nModule: Taxation\n\nMeaning: Tax Category tax/GST calculation, mapping ya compliance reporting ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Taxation module mein Tax Category open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "Tax Rule",
     "category": "Taxes",
-    "note": "Tax Rule ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Tax Rule\nModule: Taxation\n\nMeaning: Tax Rule tax/GST calculation, mapping ya compliance reporting ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Taxation module mein Tax Rule open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "Tax Withholding Category",
     "category": "Taxes",
-    "note": "Tax Withholding Category ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Tax Withholding Category\nModule: Taxation\n\nMeaning: Tax Withholding Category tax/GST calculation, mapping ya compliance reporting ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Taxation module mein Tax Withholding Category open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "Lower Deduction Certificate",
     "category": "Taxes",
-    "note": "Lower Deduction Certificate ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Lower Deduction Certificate\nModule: Taxation\n\nMeaning: Lower Deduction Certificate ERP mein Taxation process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Taxation module mein Lower Deduction Certificate open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Chart of Cost Centers",
     "category": "Cost Center and Budgeting",
-    "note": "Chart of Cost Centers ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Chart of Cost Centers\nModule: Cost Center and Budgeting\n\nMeaning: Chart of Cost Centers ERP mein Cost Center and Budgeting process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Cost Center and Budgeting module mein Chart of Cost Centers open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Budget",
     "category": "Cost Center and Budgeting",
-    "note": "Budget ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Budget\nModule: Cost Center and Budgeting\n\nMeaning: Budget expected expense/income limit define karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Cost Center and Budgeting module mein Budget open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Accounting Dimension",
     "category": "Cost Center and Budgeting",
-    "note": "Accounting Dimension ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Accounting Dimension\nModule: Cost Center and Budgeting\n\nMeaning: Accounting Dimension ERP mein Cost Center and Budgeting process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Cost Center and Budgeting module mein Accounting Dimension open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Cost Center Allocation",
     "category": "Cost Center and Budgeting",
-    "note": "Cost Center Allocation ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Cost Center Allocation\nModule: Cost Center and Budgeting\n\nMeaning: Cost Center Allocation ERP mein Cost Center and Budgeting process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Cost Center and Budgeting module mein Cost Center Allocation open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Budget Variance Report",
     "category": "Cost Center and Budgeting",
-    "note": "Budget Variance Report ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Budget Variance Report\nModule: Cost Center and Budgeting\n\nMeaning: Budget Variance Report analysis/reporting ke liye use hota hai jisse decision making aur checking easy hoti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Cost Center and Budgeting mein Budget Variance Report open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Monthly Distribution",
     "category": "Cost Center and Budgeting",
-    "note": "Monthly Distribution ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Monthly Distribution\nModule: Cost Center and Budgeting\n\nMeaning: Monthly Distribution ERP mein Cost Center and Budgeting process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Cost Center and Budgeting module mein Monthly Distribution open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Currency",
     "category": "Multi Currency",
-    "note": "Currency ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Currency\nModule: Multi Currency\n\nMeaning: Currency master mein foreign currency code, name aur symbol manage hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Multi Currency module mein Currency open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Currency\n- Exchange Rate\n- Reference Date\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Currency Exchange",
     "category": "Multi Currency",
-    "note": "Currency Exchange ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Currency Exchange\nModule: Multi Currency\n\nMeaning: Currency Exchange different currencies ke conversion rate manage karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Multi Currency module mein Currency Exchange open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Currency\n- Exchange Rate\n- Reference Date\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Exchange Rate Revaluation",
     "category": "Multi Currency",
-    "note": "Exchange Rate Revaluation ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Exchange Rate Revaluation\nModule: Multi Currency\n\nMeaning: Exchange Rate Revaluation foreign currency balances ko latest exchange rate se adjust karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Multi Currency module mein Exchange Rate Revaluation open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Currency\n- Exchange Rate\n- Reference Date\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Bank Account",
     "category": "Bank Statement",
-    "note": "Bank Account ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Bank Account\nModule: Banking\n\nMeaning: Bank Account company ke bank ledger aur bank details ko manage karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Banking module mein Bank Account open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Bank/Cash Account\n- Mode of Payment\n- Reference No\n- Allocated Amount\n\nCommon Errors:\n- Bank/cash account wrong select hota hai.\n- Reference number/date missing hoti hai.\n- Payment invoice ke against allocate nahi hoti."
   },
   {
     "title": "Bank Clearance",
     "category": "Bank Statement",
-    "note": "Bank Clearance ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Bank Clearance\nModule: Banking\n\nMeaning: Bank Clearance issued/received payments ko bank clear date ke saath mark karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Banking module mein Bank Clearance open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Bank/Cash Account\n- Mode of Payment\n- Reference No\n- Allocated Amount\n\nCommon Errors:\n- Bank/cash account wrong select hota hai.\n- Reference number/date missing hoti hai.\n- Payment invoice ke against allocate nahi hoti."
   },
   {
     "title": "Bank Reconciliation Statement",
     "category": "Bank Statement",
-    "note": "Bank statement aur ERP entries ko match/reconcile karne ke liye report."
+    "note": "Topic: Bank Reconciliation Statement\nModule: Banking\n\nMeaning: Bank Reconciliation Statement ERP balance aur bank statement balance ko match karta hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Banking mein Bank Reconciliation Statement open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Bank/Cash Account\n- Mode of Payment\n- Reference No\n- Allocated Amount\n\nCommon Errors:\n- Bank/cash account wrong select hota hai.\n- Reference number/date missing hoti hai.\n- Payment invoice ke against allocate nahi hoti."
   },
   {
     "title": "Trial Balance for Party",
     "category": "Accounting Reports",
-    "note": "Trial Balance for Party ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Trial Balance for Party\nModule: Accounting Reports\n\nMeaning: Trial Balance for Party ERP mein Accounting Reports process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Reports mein Trial Balance for Party open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Payment Period Based On Invoice Date",
     "category": "Accounting Reports",
-    "note": "Payment Period Based On Invoice Date ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Payment Period Based On Invoice Date\nModule: Accounting Reports\n\nMeaning: Payment Period Based On Invoice Date invoice transaction record karne aur accounting impact generate karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Reports module mein Payment Period Based On Invoice Date open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Bank/Cash Account\n- Mode of Payment\n- Reference No\n- Allocated Amount\n\nCommon Errors:\n- Posting Date wrong fiscal period mein hoti hai.\n- Party account ya tax template missing hota hai.\n- Item/account mapping incorrect hoti hai.\n- Bank/cash account wrong select hota hai."
   },
   {
     "title": "Sales Partners Commission",
     "category": "Accounting Reports",
-    "note": "Sales Partners Commission ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Sales Partners Commission\nModule: Accounting Reports\n\nMeaning: Sales Partners Commission ERP mein Accounting Reports process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Reports module mein Sales Partners Commission open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Customer Credit Balance",
     "category": "Accounting Reports",
-    "note": "Customer Credit Balance ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Customer Credit Balance\nModule: Accounting Reports\n\nMeaning: Customer Credit Balance ERP mein Accounting Reports process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Accounting Reports mein Customer Credit Balance open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Sales Payment Summary",
     "category": "Accounting Reports",
-    "note": "Sales Payment Summary ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Sales Payment Summary\nModule: Accounting Reports\n\nMeaning: Sales Payment Summary summarized report hoti hai jo quick balance/amount overview deti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Accounting Reports mein Sales Payment Summary open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n- Bank/Cash Account\n\nCommon Errors:\n- Bank/cash account wrong select hota hai.\n- Reference number/date missing hoti hai.\n- Payment invoice ke against allocate nahi hoti."
   },
   {
     "title": "Address And Contacts",
     "category": "Address And Contacts",
-    "note": "Address And Contacts ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Address And Contacts\nModule: Address And Contacts\n\nMeaning: Address And Contacts ERP mein Address And Contacts process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Address And Contacts module mein Address And Contacts open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Gross Profit",
     "category": "Profitability",
-    "note": "Gross Profit ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Gross Profit\nModule: Profitability Analysis\n\nMeaning: Gross Profit ERP mein Profitability Analysis process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Profitability Analysis module mein Gross Profit open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Profitability Analysis",
     "category": "Profitability",
-    "note": "Profitability Analysis ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Profitability Analysis\nModule: Profitability Analysis\n\nMeaning: Profitability Analysis analysis/reporting ke liye use hota hai jisse decision making aur checking easy hoti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Profitability Analysis mein Profitability Analysis open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Sales Invoice Trends",
     "category": "Profitability",
-    "note": "Sales Invoice Trends ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Sales Invoice Trends\nModule: Profitability Analysis\n\nMeaning: Sales Invoice Trends analysis/reporting ke liye use hota hai jisse decision making aur checking easy hoti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Profitability Analysis mein Sales Invoice Trends open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n\nCommon Errors:\n- Posting Date wrong fiscal period mein hoti hai.\n- Party account ya tax template missing hota hai.\n- Item/account mapping incorrect hoti hai."
   },
   {
     "title": "Purchase Invoice Trends",
     "category": "Profitability",
-    "note": "Purchase Invoice Trends ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Purchase Invoice Trends\nModule: Profitability Analysis\n\nMeaning: Purchase Invoice Trends analysis/reporting ke liye use hota hai jisse decision making aur checking easy hoti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. Profitability Analysis mein Purchase Invoice Trends open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Posting Date wrong fiscal period mein hoti hai.\n- Party account ya tax template missing hota hai.\n- Item/account mapping incorrect hoti hai."
   },
   {
     "title": "Chart of Accounts Importer",
     "category": "Opening and Closing",
-    "note": "Chart of Accounts Importer ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Chart of Accounts Importer\nModule: Opening and Closing\n\nMeaning: Chart of Accounts Importer ERP mein Opening and Closing process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Opening and Closing module mein Chart of Accounts Importer open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Period Closing Voucher",
     "category": "Opening and Closing",
-    "note": "Period Closing Voucher ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Period Closing Voucher\nModule: Opening and Closing\n\nMeaning: Period Closing Voucher ERP mein Opening and Closing process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Opening and Closing module mein Period Closing Voucher open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Subscription Plan",
     "category": "Subscription Management",
-    "note": "Subscription Plan ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Subscription Plan\nModule: Subscription Management\n\nMeaning: Subscription Plan ERP mein Subscription Management process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Subscription Management module mein Subscription Plan open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Subscription",
     "category": "Subscription Management",
-    "note": "Subscription ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Subscription\nModule: Subscription Management\n\nMeaning: Subscription ERP mein Subscription Management process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Subscription Management module mein Subscription open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Subscription Settings",
     "category": "Subscription Management",
-    "note": "Subscription Settings ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Subscription Settings\nModule: Subscription Management\n\nMeaning: Subscription Settings module ke default rules, accounts aur behavior set karne ke liye hota hai.\n\nPurpose: Iska purpose future transactions ke liye standard setup create karna hai taki entries consistent aur error-free rahen.\n\nSteps:\n1. Subscription Settings open karein.\n2. Company/default values check karein.\n3. Required accounts, series aur rules set karein.\n4. Save karein.\n5. Ek test transaction se setting verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Shareholder",
     "category": "Share Management",
-    "note": "Shareholder ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Shareholder\nModule: Share Management\n\nMeaning: Shareholder ERP mein Share Management process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Share Management module mein Shareholder open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Share Transfer",
     "category": "Share Management",
-    "note": "Share Transfer ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Share Transfer\nModule: Share Management\n\nMeaning: Share Transfer ERP mein Share Management process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Share Management module mein Share Transfer open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Payment Gateway Account",
     "category": "Settings",
-    "note": "Payment Gateway Account ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Payment Gateway Account\nModule: Settings\n\nMeaning: Payment Gateway Account ERP mein Settings process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Settings module mein Payment Gateway Account open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Bank/Cash Account\n- Mode of Payment\n- Reference No\n- Allocated Amount\n\nCommon Errors:\n- Bank/cash account wrong select hota hai.\n- Reference number/date missing hoti hai.\n- Payment invoice ke against allocate nahi hoti."
   },
   {
     "title": "Terms and Conditions Template",
     "category": "Settings",
-    "note": "Terms and Conditions Template ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Terms and Conditions Template\nModule: Settings\n\nMeaning: Terms and Conditions Template reusable format/template hota hai jise baar baar same setup ke liye use kiya jata hai.\n\nPurpose: Iska purpose future transactions ke liye standard setup create karna hai taki entries consistent aur error-free rahen.\n\nSteps:\n1. Settings module mein Terms and Conditions Template open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Mode of Payment",
     "category": "Settings",
-    "note": "Mode of Payment ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Mode of Payment\nModule: Settings\n\nMeaning: Mode of Payment ERP mein Settings process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. Settings module mein Mode of Payment open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Bank/Cash Account\n- Mode of Payment\n- Reference No\n- Allocated Amount\n\nCommon Errors:\n- Bank/cash account wrong select hota hai.\n- Reference number/date missing hoti hai.\n- Payment invoice ke against allocate nahi hoti."
   },
   {
     "title": "GST Settings",
     "category": "GST India Shortcuts",
-    "note": "GST Settings ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Settings\nModule: GST India / Tax Compliance\n\nMeaning: GST Settings India GST compliance ke default rules aur accounts set karta hai.\n\nPurpose: Iska purpose future transactions ke liye standard setup create karna hai taki entries consistent aur error-free rahen.\n\nSteps:\n1. GST Settings open karein.\n2. Company/default values check karein.\n3. Required accounts, series aur rules set karein.\n4. Save karein.\n5. Ek test transaction se setting verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GSTR-1 Beta",
     "category": "GST India Shortcuts",
-    "note": "GSTR-1 Beta ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GSTR-1 Beta\nModule: GST India / Tax Compliance\n\nMeaning: GSTR-1 Beta tax/GST calculation, mapping ya compliance reporting ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance module mein GSTR-1 Beta open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GSTR-3B",
     "category": "GST India Shortcuts",
-    "note": "GST summary return report jisme outward/inward tax values aur payment details hoti hain."
+    "note": "Topic: GSTR-3B\nModule: GST India / Tax Compliance\n\nMeaning: GSTR-3B monthly GST summary return hoti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance module mein GSTR-3B open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "Purchase Reconciliation Tool",
     "category": "GST India Shortcuts",
-    "note": "Purchase Reconciliation Tool ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Purchase Reconciliation Tool\nModule: GST India / Tax Compliance\n\nMeaning: Purchase Reconciliation Tool supplier GSTR data aur purchase invoices ko match karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance module mein Purchase Reconciliation Tool open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "HSN Code",
     "category": "GST India Shortcuts",
-    "note": "Items ke HSN/SAC tax classification codes manage karne ke liye."
+    "note": "Topic: HSN Code\nModule: GST India / Tax Compliance\n\nMeaning: HSN Code item/service classification code hota hai jo GST reporting mein use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance module mein HSN Code open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "GSTR-1",
     "category": "GST Sales and Purchase Reports",
-    "note": "Sales/outward supplies GST return ke liye report."
+    "note": "Topic: GSTR-1\nModule: GST India / Tax Compliance\n\nMeaning: GSTR-1 outward supplies/sales GST return report hoti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance module mein GSTR-1 open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GST Sales Register",
     "category": "GST Sales and Purchase Reports",
-    "note": "GST Sales Register ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Sales Register\nModule: GST India / Tax Compliance\n\nMeaning: GST Sales Register transaction-wise report hoti hai jisme date, party, item/account, tax aur amount details dikhte hain.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. GST India / Tax Compliance mein GST Sales Register open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n- GSTIN\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GST Purchase Register",
     "category": "GST Sales and Purchase Reports",
-    "note": "GST Purchase Register ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Purchase Register\nModule: GST India / Tax Compliance\n\nMeaning: GST Purchase Register transaction-wise report hoti hai jisme date, party, item/account, tax aur amount details dikhte hain.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. GST India / Tax Compliance mein GST Purchase Register open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- GSTIN\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GST Itemised Sales Register",
     "category": "GST Sales and Purchase Reports",
-    "note": "GST Itemised Sales Register ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Itemised Sales Register\nModule: GST India / Tax Compliance\n\nMeaning: GST Itemised Sales Register transaction-wise report hoti hai jisme date, party, item/account, tax aur amount details dikhte hain.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. GST India / Tax Compliance mein GST Itemised Sales Register open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n- GSTIN\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GST Itemised Purchase Register",
     "category": "GST Sales and Purchase Reports",
-    "note": "GST Itemised Purchase Register ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Itemised Purchase Register\nModule: GST India / Tax Compliance\n\nMeaning: GST Itemised Purchase Register transaction-wise report hoti hai jisme date, party, item/account, tax aur amount details dikhte hain.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. GST India / Tax Compliance mein GST Itemised Purchase Register open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- GSTIN\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "Bill of Entry Summary",
     "category": "GST Sales and Purchase Reports",
-    "note": "Bill of Entry Summary ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Bill of Entry Summary\nModule: GST India / Tax Compliance\n\nMeaning: Bill of Entry Summary summarized report hoti hai jo quick balance/amount overview deti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. GST India / Tax Compliance mein Bill of Entry Summary open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "e-Waybill Log",
     "category": "GST Logs",
-    "note": "e-Waybill Log ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: e-Waybill Log\nModule: GST India / Tax Compliance\n\nMeaning: e-Waybill Log generated e-way bills ka status/history record karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance module mein e-Waybill Log open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "e-Invoice Log",
     "category": "GST Logs",
-    "note": "e-Invoice Log ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: e-Invoice Log\nModule: GST India / Tax Compliance\n\nMeaning: e-Invoice Log IRN/e-invoice generation ka status aur response store karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance module mein e-Invoice Log open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Posting Date wrong fiscal period mein hoti hai.\n- Party account ya tax template missing hota hai.\n- Item/account mapping incorrect hoti hai."
   },
   {
     "title": "GST Return Log",
     "category": "GST Logs",
-    "note": "GST Return Log ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Return Log\nModule: GST India / Tax Compliance\n\nMeaning: GST Return Log filed/submitted GST returns ki history rakhta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance module mein GST Return Log open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GST Inward Supply",
     "category": "GST Logs",
-    "note": "GST Inward Supply ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Inward Supply\nModule: GST India / Tax Compliance\n\nMeaning: GST Inward Supply tax/GST calculation, mapping ya compliance reporting ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance module mein GST Inward Supply open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "e-Invoice Summary",
     "category": "Other GST Reports",
-    "note": "e-Invoice Summary ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: e-Invoice Summary\nModule: GST India / Tax Compliance\n\nMeaning: e-Invoice Summary summarized report hoti hai jo quick balance/amount overview deti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. GST India / Tax Compliance mein e-Invoice Summary open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n\nCommon Errors:\n- Posting Date wrong fiscal period mein hoti hai.\n- Party account ya tax template missing hota hai.\n- Item/account mapping incorrect hoti hai."
   },
   {
     "title": "GSTR-3B Details",
     "category": "Other GST Reports",
-    "note": "GSTR-3B Details ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GSTR-3B Details\nModule: GST India / Tax Compliance\n\nMeaning: GSTR-3B Details tax/GST calculation, mapping ya compliance reporting ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance module mein GSTR-3B Details open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GST Balance",
     "category": "Other GST Reports",
-    "note": "GST Balance ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Balance\nModule: GST India / Tax Compliance\n\nMeaning: GST Balance tax/GST calculation, mapping ya compliance reporting ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance mein GST Balance open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "HSN-wise Summary of Outward Supplies",
     "category": "Other GST Reports",
-    "note": "HSN-wise Summary of Outward Supplies ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: HSN-wise Summary of Outward Supplies\nModule: GST India / Tax Compliance\n\nMeaning: HSN-wise Summary of Outward Supplies summarized report hoti hai jo quick balance/amount overview deti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. GST India / Tax Compliance mein HSN-wise Summary of Outward Supplies open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "HSN-wise Summary of Inward Supplies",
     "category": "Other GST Reports",
-    "note": "HSN-wise Summary of Inward Supplies ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: HSN-wise Summary of Inward Supplies\nModule: GST India / Tax Compliance\n\nMeaning: HSN-wise Summary of Inward Supplies summarized report hoti hai jo quick balance/amount overview deti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. GST India / Tax Compliance mein HSN-wise Summary of Inward Supplies open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "GST Advance Detail",
     "category": "Other GST Reports",
-    "note": "GST Advance Detail ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Advance Detail\nModule: GST India / Tax Compliance\n\nMeaning: GST Advance Detail tax/GST calculation, mapping ya compliance reporting ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance module mein GST Advance Detail open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GSTIN Status",
     "category": "Other GST Reports",
-    "note": "GSTIN Status ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GSTIN Status\nModule: GST India / Tax Compliance\n\nMeaning: GSTIN Status vendor/customer GSTIN active, inactive ya invalid status check karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance module mein GSTIN Status open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GST Sales Register Beta",
     "category": "New GST Reports",
-    "note": "GST Sales Register Beta ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Sales Register Beta\nModule: GST India / Tax Compliance\n\nMeaning: GST Sales Register Beta transaction-wise report hoti hai jisme date, party, item/account, tax aur amount details dikhte hain.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. GST India / Tax Compliance mein GST Sales Register Beta open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Customer\n- Receivable Account\n- Sales Invoice\n- Amount\n- GSTIN\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GST Purchase Register Beta",
     "category": "New GST Reports",
-    "note": "GST Purchase Register Beta ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Purchase Register Beta\nModule: GST India / Tax Compliance\n\nMeaning: GST Purchase Register Beta transaction-wise report hoti hai jisme date, party, item/account, tax aur amount details dikhte hain.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. GST India / Tax Compliance mein GST Purchase Register Beta open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- GSTIN\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GST Job Work Stock Movement",
     "category": "New GST Reports",
-    "note": "GST Job Work Stock Movement ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Job Work Stock Movement\nModule: GST India / Tax Compliance\n\nMeaning: GST Job Work Stock Movement tax/GST calculation, mapping ya compliance reporting ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. GST India / Tax Compliance module mein GST Job Work Stock Movement open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GST Tax Rate-wise Summary",
     "category": "New GST Reports",
-    "note": "GST Tax Rate-wise Summary ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Tax Rate-wise Summary\nModule: GST India / Tax Compliance\n\nMeaning: GST Tax Rate-wise Summary summarized report hoti hai jo quick balance/amount overview deti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. GST India / Tax Compliance mein GST Tax Rate-wise Summary open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "GST Account-wise Summary",
     "category": "New GST Reports",
-    "note": "GST Account-wise Summary ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: GST Account-wise Summary\nModule: GST India / Tax Compliance\n\nMeaning: GST Account-wise Summary summarized report hoti hai jo quick balance/amount overview deti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. GST India / Tax Compliance mein GST Account-wise Summary open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- GSTIN\n- Tax Template\n- HSN/SAC\n- Tax Rate\n- Place of Supply\n\nCommon Errors:\n- GSTIN/HSN incorrect hota hai.\n- Place of Supply mismatch hota hai.\n- Tax template wrong apply hota hai."
   },
   {
     "title": "Leave Application",
     "category": "Payables / HR Shortcuts",
-    "note": "Employee leave request submit aur approve/reject karne ke liye."
+    "note": "Topic: Leave Application\nModule: HR / Payroll / Attendance\n\nMeaning: Leave Application employee ki chutti request submit/approve karne ke liye use hoti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Leave Application open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Expense Claim",
     "category": "Payables / HR Shortcuts",
-    "note": "Employee ke business expenses claim aur approval ke liye."
+    "note": "Topic: Expense Claim\nModule: HR / Payroll / Attendance\n\nMeaning: Expense Claim employee ke company expense reimbursement ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Expense Claim open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Leave Encashment",
     "category": "Payables / HR Shortcuts",
-    "note": "Leave Encashment ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Leave Encashment\nModule: HR / Payroll / Attendance\n\nMeaning: Leave Encashment employee leave process aur leave balance management ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Leave Encashment open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Leave Policy",
     "category": "Payables / HR Shortcuts",
-    "note": "Leave Policy ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Leave Policy\nModule: HR / Payroll / Attendance\n\nMeaning: Leave Policy employee leave process aur leave balance management ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Leave Policy open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Leave Policy Assignment",
     "category": "Payables / HR Shortcuts",
-    "note": "Leave Policy Assignment ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Leave Policy Assignment\nModule: HR / Payroll / Attendance\n\nMeaning: Leave Policy Assignment employee leave process aur leave balance management ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Leave Policy Assignment open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Leave Allocation",
     "category": "Payables / HR Shortcuts",
-    "note": "Leave Allocation ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Leave Allocation\nModule: HR / Payroll / Attendance\n\nMeaning: Leave Allocation employee leave process aur leave balance management ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Leave Allocation open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Attendance",
     "category": "Payables / HR Shortcuts",
-    "note": "Employee ki daily present, absent, half day ya leave status maintain karne ke liye."
+    "note": "Topic: Attendance\nModule: HR / Payroll / Attendance\n\nMeaning: Attendance employee ke present/absent/leave status ko daily basis par record karti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Attendance open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Duplicate checkin record hota hai.\n- Shift assign nahi hoti.\n- IN/OUT log missing hota hai."
   },
   {
     "title": "Shift Type",
     "category": "Payables / HR Shortcuts",
-    "note": "Shift Type ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Shift Type\nModule: HR / Payroll / Attendance\n\nMeaning: Shift Type employee ke working hours, grace time aur auto attendance rules define karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Shift Type open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Travel Request",
     "category": "Payables / HR Shortcuts",
-    "note": "Travel Request ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Travel Request\nModule: HR / Payroll / Attendance\n\nMeaning: Travel Request ERP mein HR / Payroll / Attendance process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Travel Request open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Employee Attendance Tool (Bio Matric Machine)",
     "category": "Payables / HR Shortcuts",
-    "note": "Employee Attendance Tool (Bio Matric Machine) ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Employee Attendance Tool (Bio Matric Machine)\nModule: HR / Payroll / Attendance\n\nMeaning: Employee Attendance Tool (Bio Matric Machine) employee attendance, shift timing aur working hours manage karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Employee Attendance Tool (Bio Matric Machine) open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Duplicate checkin record hota hai.\n- Shift assign nahi hoti.\n- IN/OUT log missing hota hai."
   },
   {
     "title": "Event",
     "category": "Payables / HR Shortcuts",
-    "note": "Event ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Event\nModule: HR / Payroll / Attendance\n\nMeaning: Event ERP mein HR / Payroll / Attendance process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Event open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Employee Grievance",
     "category": "Payables / HR Shortcuts",
-    "note": "Employee Grievance ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Employee Grievance\nModule: HR / Payroll / Attendance\n\nMeaning: Employee Grievance ERP mein HR / Payroll / Attendance process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Employee Grievance open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Employee Achievement",
     "category": "Payables / HR Shortcuts",
-    "note": "Employee Achievement ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Employee Achievement\nModule: HR / Payroll / Attendance\n\nMeaning: Employee Achievement ERP mein HR / Payroll / Attendance process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Employee Achievement open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Relieving Letter",
     "category": "Payables / HR Shortcuts",
-    "note": "Relieving Letter ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Relieving Letter\nModule: HR / Payroll / Attendance\n\nMeaning: Relieving Letter ERP mein HR / Payroll / Attendance process ko manage, track aur report karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Relieving Letter open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Monthly Attendance Sheet",
     "category": "Payables / HR Shortcuts",
-    "note": "Monthly Attendance Sheet ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Monthly Attendance Sheet\nModule: HR / Payroll / Attendance\n\nMeaning: Monthly Attendance Sheet employee attendance, shift timing aur working hours manage karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Monthly Attendance Sheet open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Duplicate checkin record hota hai.\n- Shift assign nahi hoti.\n- IN/OUT log missing hota hai."
   },
   {
     "title": "Shift Attendance",
     "category": "Payables / HR Shortcuts",
-    "note": "Shift Attendance ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Shift Attendance\nModule: HR / Payroll / Attendance\n\nMeaning: Shift Attendance employee attendance, shift timing aur working hours manage karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Shift Attendance open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Duplicate checkin record hota hai.\n- Shift assign nahi hoti.\n- IN/OUT log missing hota hai."
   },
   {
     "title": "Salary Component",
     "category": "Payables / HR Shortcuts",
-    "note": "Salary Component ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Salary Component\nModule: HR / Payroll / Attendance\n\nMeaning: Salary Component earning/deduction item jaise Basic, HRA, PF, Tax define karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Salary Component open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Salary structure assigned nahi hota.\n- Attendance/leave data incomplete hota hai.\n- Payroll period wrong select hota hai."
   },
   {
     "title": "Salary Structure",
     "category": "Payables / HR Shortcuts",
-    "note": "Salary Structure ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Salary Structure\nModule: HR / Payroll / Attendance\n\nMeaning: Salary Structure employee salary formula aur components ka template hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Salary Structure open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Salary structure assigned nahi hota.\n- Attendance/leave data incomplete hota hai.\n- Payroll period wrong select hota hai."
   },
   {
     "title": "Salary Structure Assignment",
     "category": "Payables / HR Shortcuts",
-    "note": "Salary Structure Assignment ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Salary Structure Assignment\nModule: HR / Payroll / Attendance\n\nMeaning: Salary Structure Assignment kisi employee par salary structure apply karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Salary Structure Assignment open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Salary structure assigned nahi hota.\n- Attendance/leave data incomplete hota hai.\n- Payroll period wrong select hota hai."
   },
   {
     "title": "Salary Slip",
     "category": "Payables / HR Shortcuts",
-    "note": "Employee salary ka monthly document jisme earnings, deductions aur net pay show hota hai."
+    "note": "Topic: Salary Slip\nModule: HR / Payroll / Attendance\n\nMeaning: Salary Slip employee ki monthly earnings, deductions aur net pay ka document hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Salary Slip open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Salary structure assigned nahi hota.\n- Attendance/leave data incomplete hota hai.\n- Payroll period wrong select hota hai."
   },
   {
     "title": "Payroll Entry",
     "category": "Payables / HR Shortcuts",
-    "note": "Multiple employees ki salary slips process karne aur accounting entry banane ke liye."
+    "note": "Topic: Payroll Entry\nModule: HR / Payroll / Attendance\n\nMeaning: Payroll Entry multiple employees ki salary slips process aur accounting posting ke liye use hoti hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Payroll Entry open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Salary structure assigned nahi hota.\n- Attendance/leave data incomplete hota hai.\n- Payroll period wrong select hota hai."
   },
   {
     "title": "Additional Salary",
     "category": "Payables / HR Shortcuts",
-    "note": "Additional Salary ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Additional Salary\nModule: HR / Payroll / Attendance\n\nMeaning: Additional Salary bonus, arrear, deduction ya one-time earning add karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Additional Salary open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Salary structure assigned nahi hota.\n- Attendance/leave data incomplete hota hai.\n- Payroll period wrong select hota hai."
   },
   {
     "title": "Employee Incentive",
     "category": "Payables / HR Shortcuts",
-    "note": "Employee Incentive ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Employee Incentive\nModule: HR / Payroll / Attendance\n\nMeaning: Employee Incentive performance based extra payment record karne ke liye use hota hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance module mein Employee Incentive open karein.\n2. New ya existing record select karein.\n3. Company/date/party jaise required fields fill karein.\n4. Items/accounts/amount details add karein.\n5. Save karein.\n6. Submit/Approve karein agar required ho.\n7. Ledger/report mein impact verify karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   },
   {
     "title": "Salary Register",
     "category": "Payables / HR Shortcuts",
-    "note": "Salary Register ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Salary Register\nModule: HR / Payroll / Attendance\n\nMeaning: Salary Register period-wise salary summary report hoti hai.\n\nPurpose: Iska purpose data ko check, reconcile, audit aur management reporting ke liye clear format mein dikhana hai.\n\nSteps:\n1. HR / Payroll / Attendance mein Salary Register open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Salary structure assigned nahi hota.\n- Attendance/leave data incomplete hota hai.\n- Payroll period wrong select hota hai."
   },
   {
     "title": "Employee Leave Balance",
     "category": "Payables / HR Shortcuts",
-    "note": "Employee Leave Balance ke notes yahan add karein. Is section mein purpose, steps, important fields, example aur common errors likh sakte hain."
+    "note": "Topic: Employee Leave Balance\nModule: HR / Payroll / Attendance\n\nMeaning: Employee Leave Balance employee ke available, used aur remaining leaves show karta hai.\n\nPurpose: Iska purpose daily ERP transaction ko properly record karna, approval track karna aur accounting/reporting impact create karna hai.\n\nSteps:\n1. HR / Payroll / Attendance mein Employee Leave Balance open karein.\n2. Company select karein.\n3. From Date aur To Date set karein.\n4. Required party/account/item filters lagayein.\n5. Refresh/Run report karein.\n6. Totals aur exceptions verify karein.\n7. Need ho to Export/Print karein.\n\nImportant Fields:\n- Company\n- Date/Posting Date\n- Status\n- Supplier\n- Payable Account\n- Purchase Invoice\n- Amount\n- Employee\n\nCommon Errors:\n- Required field missing hota hai.\n- Wrong date/company/party select ho jati hai.\n- Permission ya workflow approval pending hota hai.\n- Report/ledger mein expected impact verify nahi hota."
   }
 ];
